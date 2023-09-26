@@ -4,6 +4,6 @@ title = "No Time to Die"
 theme = 'paper'
 
 [params]
-    avator = '929740637@qq.com'
+    avatar = '929740637@qq.com'
     name = 'Lin'
     bio = "007 doesn't mean 7*24"
