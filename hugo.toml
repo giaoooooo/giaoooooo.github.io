@@ -1,0 +1,4 @@
+baseURL = 'null'
+languageCode = 'en-us'
+title = "007 doesn't mean 7*24"
+theme = 'paper'
