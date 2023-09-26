@@ -4,8 +4,7 @@ date = 2023-09-26T15:25:35+08:00
 draft = false
 +++
 
-## Introduction
+* I'm chinese.
+* I'm programmer.
+* I'm brazilian jiu-jitsu blue belt. 
 
-I'm chinese.
-I'm programmer.
-I'm brazilian jiu-jitsu blue belt. 
