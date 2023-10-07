@@ -4,6 +4,33 @@ title = "No Time to Die"
 theme = 'paper'
 
 [params]
+    color = 'linen'
+
+    github = 'giaoooooo'
+
     avatar = '929740637@qq.com'
     name = 'Lin'
     bio = "007 doesn't mean 7*24"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "intro"
+    name = "Intro"
+    url = "/intro/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "review"
+    name = "Review"
+    url = "/review/"
+    weight = 1
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
